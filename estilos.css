@@ -1,0 +1,17 @@
+form{
+    text-align: center;
+    border-style: double;
+    border-color: green;
+
+}
+h1{
+    color: pink;
+}
+.Boton{
+    background-color: pink;
+    width: 100px;
+    height: 60px;
+}
+body{
+    background-color: gray;
+}
